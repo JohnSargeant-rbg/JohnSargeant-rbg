@@ -1,5 +1,5 @@
 ### Hello World 👋
-![me]https://github.com/JohnSargeant-rbg/me.gif
+![me]https://github.com/JohnSargeant-rbg/me/blob/main/working-max-comalatech-by-arturo-m-ndez-dribbble.gif
 
 
 - 🔭 I’m currently working on bespoke ImageJ plugins for use in biological analysis. 
