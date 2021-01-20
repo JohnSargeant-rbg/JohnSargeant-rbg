@@ -1,8 +1,8 @@
 ### Hello World 👋
-![me]https://github.com/JohnSargeant-rbg/me/blob/main/working-max-comalatech-by-arturo-m-ndez-dribbble.gif
 
 
-<img align="right" alt="GIF" src="https://github.com/JohnSargeant-rbg/me/blob/main/working-max-comalatech-by-arturo-m-ndez-dribbble.gif.gif?raw=true" width="500" height="320" />
+
+<img align="right" alt="GIF" src="https://github.com/JohnSargeant-rbg/me/blob/main/working-max-comalatech-by-arturo-m-ndez-dribbble.gif?raw=true" width="500" height="320" />
 
 
 
