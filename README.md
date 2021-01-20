@@ -8,4 +8,4 @@
 - 💬 Ask me about ImageJ plugins!
 - 📫 How to reach me: TBD
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My Chess.com rating is not terrible. 
+- ⚡ Fun fact: I love Oolong tea!
