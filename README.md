@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/JohnSargeant-rbg/me/blob/main/working-max-comalatech-by-arturo-m-ndez-dribbble.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/JohnSargeant-rgb/me/blob/main/working-max-comalatech-by-arturo-m-ndez-dribbble.gif?raw=true" width="500" height="320" />
 
 
 
